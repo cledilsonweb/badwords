@@ -4,11 +4,12 @@
     "keywords": ["badwords"],
     "type": "libary",
     "license": "MIT",
-    "minimum-stability": "dev",
     "authors": [
         {
-            "name": "cledilsonweb",
-            "email": "contato@cledilsonweb.com.br"
+            "name": "Cledilson Nascimento",
+            "email": "contato@cledilsonweb.com.br",
+            "homepage": "https://github.com/cledilsonweb",
+            "role": "Developer"
         },
         {
             "name": "mioga-brian",
