@@ -2,6 +2,7 @@ Badwords PHP
 ============
 
 Badwords PHP is **small lightweight PHP library** for detecting "bad" words, e.g. profanity, in content.
+This is a fork from mioga-technik/badwords to customize.
 
 Aside from the obvious matching if a word is present in a string, the filter also tries to detect words similar to those in the list, e.g. `gl@d` and `glad`.
 
