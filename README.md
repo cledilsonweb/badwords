@@ -13,7 +13,7 @@ The library is designed to be **highly configurable**, from the word lists used 
 Requirements
 ------------
 
-* The library is only supported on PHP 5.3.0 and up.
+* The library is only supported on PHP 5.6 and up.
 * Composer is required.
 
 Installation
@@ -22,7 +22,7 @@ Installation
 To install include it in your projects's `composer.json`.
 
 ```bash
-    $ composer require mioga-brian/badwords-php
+    $ composer require cledilsonweb/badwords
     $ composer update
 ```
 
@@ -106,6 +106,8 @@ To run the unit tests on this package, simply run `vendor/bin/phpunit` from the 
 
 Credits
 -------
+* This repository is maintained by [Cledilson Nascimento](https://github.com/cledilsonweb)
+### Previous authors:
 * Update Repository and push it to packagist by [Brian Schäffner](https://github.com/mioga-brian).
 * Written and developed by [Stephen Melrose](http://twitter.com/stephenmelrose).
 * Original concept by [Paul Lemon](http://twitter.com/anthonylime).
